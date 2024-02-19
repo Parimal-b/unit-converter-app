@@ -2,6 +2,7 @@ package com.example.unitconverterapp.data
 
 import kotlinx.coroutines.flow.Flow
 
+
 class ConvertorRepositoryImpl(private val dao: ConverterDAO): ConverterRepository {
     override suspend fun insertResult(result: ConversionResult) {
         dao.insertResult(result)
