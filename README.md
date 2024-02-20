@@ -5,6 +5,18 @@
 <h1>Unit Converter Application</h1>
 The Unit Converter app is designed to provide a seamless and efficient experience for users who need to perform unit conversions on their Android devices. While the current focus is on functionality rather than aesthetics, the layout can be enhanced and customized in future iterations.
 
+<h2>Planning (Application before development)</h2>
+<img src="https://github.com/Parimal-b/unit-converter-app/blob/dev/Project%20plan.png">
+
+<h2>Final Application</h2>
+<div>
+
+<img src="https://github.com/Parimal-b/unit-converter-app/blob/dev/ProjectImg1.png" height="520px" width="270px">
+<img src="https://github.com/Parimal-b/unit-converter-app/blob/dev/ProjectImg2.png" height="520px" width="270px">
+<img src="https://github.com/Parimal-b/unit-converter-app/blob/dev/ProjectImg3.png" height="520px" width="270px">
+<img src="https://github.com/Parimal-b/unit-converter-app/blob/dev/ProjectImg4.png" height="250px" width="500px">
+</div>
+
 <h2>Key Features:</h2>
 
 <h2>Conversion Selection:</h2>
